@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.jspiders.musicplayer.entity.Playlist.song&apos; in &apos;com.jspiders.musicplayer.entity.Playlist&apos;&#x0D;&#x0A;- Original project: &apos;musicplayer&apos;&#x0D;&#x0A;- Original element: &apos;com.jspiders.musicplayer.entity.Playlist.song&apos;&#x0D;&#x0A;- Getter method name: &apos;getSong&apos;&#x0D;&#x0A;- Setter method name: &apos;setSong&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;song&apos;" flags="589830" getter="getSong" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;com.jspiders.musicplayer.entity{Playlist.java[Playlist^song" insertion="-1" setter="setSong" stamp="1681062858713" version="1.0" visibility="1"/>
+</session>
